@@ -120,7 +120,7 @@ Cloud PC connectivity is provided by Azure Virtual Desktop. No inbound connectio
 - The Cloud PC to the Azure Virtual Desktop endpoints.
 - The Remote Desktop clients to Azure Virtual Desktop endpoints.
 
-For more information on these ports, see [Azure Virtual Desktop required URL list](/azure/virtual-desktop/safe-url-list). To ease configuration of network security controls, use Service Tags for Azure Virtual Desktop to identity those endpoints. For more information on Azure Service Tags, see [Azure service tags overview](/azure/virtual-network/service-tags-overview).
+For more information on these ports, see [Azure Virtual Desktop required URL list](/azure/virtual-desktop/safe-url-list). To ease configuration of network security controls, use Service Tags for Azure Virtual Desktop to identify those endpoints. For more information on Azure Service Tags, see [Azure service tags overview](/azure/virtual-network/service-tags-overview).
 
 There's no requirement to configure your Cloud PCs to make these connections. Windows 365 seamlessly integrates Azure Virtual Desktop connectivity components into gallery or custom images.
 
@@ -158,4 +158,4 @@ For more information about Windows 365 Cloud PC encryption, see [Data encryption
 <!-- ########################## -->
 ## Next steps
 
-[Learn about Windows 365 identity and authentication](identity-authentication.md).
+[Learn about Windows 365  and authentication](-authentication.md).
